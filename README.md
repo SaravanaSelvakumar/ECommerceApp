@@ -9,20 +9,20 @@
   - Fetch products asynchronously using URLSession.
   - Display product images, titles, prices, ratings, and descriptions.
 
-  - 🔍 **Search Products**
+- 🔍 **Search Products**
   - Real-time filtering of products based on user input.
 
-  - 🛒 **Cart Management**
+- 🛒 **Cart Management**
   - Add, remove, and manage quantities of products in the cart.
 
-  - 📦 **Checkout Flow**
+- 📦 **Checkout Flow**
   - Confirmation alert before order placement.
   - Success alert on completion, clearing the cart.
 
-  - 💬 **Alert System**
+- 💬 **Alert System**
   - Custom alerts for feedback and confirmations.
 
-  - 📄 **Product Detail View**
+- 📄 **Product Detail View**
   - Detailed view with large images and add-to-cart action.
 
   - 🎨 **Clean UI**

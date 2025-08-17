@@ -1,5 +1,6 @@
 # ECommerceApp  
 🛍️ A modern iOS e-commerce app built with SwiftUI to browse products, add to cart, and checkout smoothly.
+A modern, SwiftUI-based e-commerce app following the MVVM architecture. It includes features such as product browsing, search functionality, cart management, product detail views, checkout flow, and alert popups — all implemented using native Swift frameworks.
 
 
 
@@ -20,11 +21,7 @@
 
 ## 📱 Screenshots
 
-
-![Uploading Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15.47.13.png…]()
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 47 34" src="https://github.com/user-attachments/assets/9f5445a8-d5b0-478c-ae4c-42d0cd4ea0c5" /><img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 48 55" src="https://github.com/user-attachments/assets/eb9e44df-b3fe-4021-aa36-ca6f60636c6d" /><img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 52 24" src="https://github.com/user-attachments/assets/dd9109b0-bcbb-47dd-85f3-5cf54de80534" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 48 44" src="https://github.com/user-attachments/assets/be389f09-bb09-48e9-bc2c-de2c3317203d" />
-<img width="1206" height="2622" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 47 48" src="https://github.com/user-attachments/assets/e9a6b89d-2b88-4ffc-a764-08ee265d77c9" />
+<img width="300" height="650" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-17 at 15 47 13" src="https://github.com/user-attachments/assets/9a2e01bf-90d1-4dcd-848b-a053eeb07cbc" />
 
 
 ---

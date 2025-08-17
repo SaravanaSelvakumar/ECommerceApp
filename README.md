@@ -41,7 +41,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/ECommerceApp.git
+   git clone https://github.com/SaravanaSelvakumar/ECommerceApp.git
 
 ---
 
